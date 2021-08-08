@@ -15,4 +15,11 @@ Data Analysis course at college.
 My college track was been pretty leeway, but happy with where I've come so far.
 When I am not doing college or work-related stuffs, I can be found making
 hand-drip coffee, traveling, writing blog posts (Korean & English), or spending
-time doing with my little sister. 
+time doing with my little sister.
+
+You can also check out my previous writings [here][medium-blog]
+(한국어 포스팅은 [브런치][brunch-blog]에서 확인하세요!)
+
+
+[medium-blog]: https://medium.com/@sh4733
+[brunch-blog]: https://brunch.co.kr/@soohyunhwangbo
