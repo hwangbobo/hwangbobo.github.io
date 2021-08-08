@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "Soohyun Hwangbo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-pic.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Econ & Sociology @NYU Abu Dhabi"
   location         : "Abu Dhabi, UAE"
-  email            :
+  email            : soohyun.hwangbo@nyu.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -122,8 +122,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
