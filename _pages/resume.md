@@ -7,21 +7,40 @@ layout: single
 
 ### SNOW Corporation
 Data Analyst Intern
+- Worked on building the interest-based social blogging app WIT and short-for video platform VENTI
+- Managed data taxonomy for Amplitude implementation of in-app events
+- Defined product roadmaps, feature priorities and KPIs based on user data
+- Analyzed user behavior data and marketing conversion data to measure conversion success from marketing campaigns and propose improvements for
 - Tools used: Amplitude, Appsflyer
 
 ### Center for Interacting Urban Networks (CITIES)
 Summer Research Fellow
 - Worked on a project examining socioeconomic factors that drive reporting of
 workplace discrimination in California
+- Geocoded
 - Designed & Implemented data cleansing, dataset merging, data processing &
 visualization with R libraries
-  - Tools used: sf / ggmap / tmap / geocode
+  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap / geocode
 - Data Visualization
   - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map]
+
+### NYU Center for Social Media and Politics
+Research Assistant
+- Conducted a literature review on
+
+<!-- ### NYUAD Writing Center
+
+### imagiLabs
+Business Development Intern -->
+
 
 ## Education
 New York University Abu Dhabi, Class of 2022
 - Double Major in Economics & Sociology, Minor in Mathematics
 - GPA: 3.85/4.00
+- Study Away semesters at NYU London ('19 Spring) and NYU New York ('20 Spring)
 
-[cali-map][]
+[sf-intro]: https://r-spatial.github.io/sf/
+[ggmap-intro]: https://github.com/dkahle/ggmap
+[cali-map]: /assets/html-files/case_by_ctract.html
+[CITIES-intro]: https://sites.nyuad.nyu.edu/cities/summer-research-program-2019-2020/
