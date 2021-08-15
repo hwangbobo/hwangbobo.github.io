@@ -42,5 +42,5 @@ New York University Abu Dhabi, Class of 2022
 
 [sf-intro]: https://r-spatial.github.io/sf/
 [ggmap-intro]: https://github.com/dkahle/ggmap
-[cali-map]: /assets/case_county_2.html
+[cali-map]: /pages/case_county_2.html
 [CITIES-intro]: https://sites.nyuad.nyu.edu/cities/summer-research-program-2019-2020/
