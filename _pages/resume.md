@@ -7,7 +7,7 @@ layout: single
 
 ### SNOW Corporation
 Data Analyst Intern
-- Worked on building the interest-based social blogging app WIT and short-for video platform VENTI
+- Worked on building the interest-based social blogging app WIT and short-form video platform VENTI
 - Managed data taxonomy for Amplitude implementation of in-app events
 - Defined product roadmaps, feature priorities and KPIs based on user data
 - Analyzed user behavior data and marketing conversion data to measure conversion success from marketing campaigns and propose improvements for
@@ -17,16 +17,18 @@ Data Analyst Intern
 Summer Research Fellow
 - Worked on a project examining socioeconomic factors that drive reporting of
 workplace discrimination in California
-- Geocoded
+- Geocoded company addresses using Google Maps API to obtain longitude and latitude, and created an interactive map of the complaints by census tract level
 - Designed & Implemented data cleansing, dataset merging, data processing &
 visualization with R libraries
   - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap / geocode
 - Data Visualization
   - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map]
+![California's Discrimination Cases]("assets/images/cali_map.png")
+
 
 ### NYU Center for Social Media and Politics
 Research Assistant
-- Conducted a literature review on
+- Conducted a literature review on liberal bias in fact-checking organizations
 
 <!-- ### NYUAD Writing Center
 
