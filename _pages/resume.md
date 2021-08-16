@@ -7,13 +7,12 @@ layout: single
 
 ### SNOW Corporation
 *Data Analyst Intern*
-- Worked on building the interest-based social blogging app WIT and short-form video platform VENTI
-- Managed data taxonomy for Amplitude implementation of in-app events
-- Defined product roadmaps, feature priorities and KPIs based on user data
+- Worked on building the interest-based social blogging app [WIT][witapp] and short-form video platform VENTI
+- Managed data taxonomy for [Amplitude][amplitude] implementation of in-app events
 - Identified churn funnel in 'search keyword' stage through analysis of user behavior data and proposed improvements for search results page to boost conversion from marketing campaigns
-- Analyzed key actions of long-term ret
-- Organized "Intro to SQL" study session for marketing and content team members
-- Tools used: Amplitude, Appsflyer
+- Analyzed key actions of retention users to define top user cohorts and rank feature priorities for app updates
+- Conducted research on social apps and short-form video platforms to devise product strategy on fostering in-app community environment
+- Organized "Intro to SQL" study session for marketing and content team members for improved data literacy
 
 ### Center for Interacting Urban Networks (CITIES)
 *Summer Research Fellow*
@@ -48,6 +47,8 @@ Business Development Intern -->
   - Mathematics: Multivariable Calculus, Linear Algebra, Probability and Statistics, Econometrics, Forecasting Times Series Data
 - Programming Skills: R, SQL, Python
 
+[witapp]: https://apps.apple.com/app/id1345290118
+[amplitude]: https://amplitude.com
 [sf-intro]: https://r-spatial.github.io/sf/
 [ggmap-intro]: https://github.com/dkahle/ggmap
 [tmap-intro]: https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html
