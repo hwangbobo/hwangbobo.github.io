@@ -10,7 +10,8 @@ Data Analyst Intern
 - Worked on building the interest-based social blogging app WIT and short-form video platform VENTI
 - Managed data taxonomy for Amplitude implementation of in-app events
 - Defined product roadmaps, feature priorities and KPIs based on user data
-- Analyzed user behavior data and marketing conversion data to measure conversion success from marketing campaigns and propose improvements for
+- Analyzed user behavior data to measure conversion success from marketing campaigns and proposed improvements for
+- Identified churn funnel in 'search keyword' stage from user behavior data  from marketing campaigns
 - Organized "Intro to SQL" study session for marketing and content team members
 - Tools used: Amplitude, Appsflyer
 
@@ -24,7 +25,7 @@ visualization with R libraries
   - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap
 - Data Visualization
   <!-- - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map] -->
-![California's Discrimination Cases]("/assets/images/cali_map.png")
+[![California's Discrimination Cases]("/assets/images/cali_map.png")]
 
 
 ### NYU Center for Social Media and Politics
