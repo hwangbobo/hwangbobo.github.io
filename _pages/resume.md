@@ -20,14 +20,14 @@ Summer Research Fellow
 - Worked on a project examining socioeconomic factors that drive reporting of
 workplace discrimination in California
 - Geocoded company addresses using Google Maps API to obtain longitude and latitude, and created an interactive map of the complaints by census tract level
+- Built a new data set of socioeconomic variables merged by census tract ID
 - Designed & Implemented data cleansing, dataset merging, data processing &
 visualization with R libraries
-  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap
+  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / [tmap][tmap-intro]
 - Data Visualization
   <!-- - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map] -->
-![California's Discrimination Cases]("assets/images/cali_map.jpg")
-
-
+![California's Discrimination Cases](/assets/images/cali_map.jpg)
+- Identified corresponding company data for discrimination complaints through fuzzy matching of names and addresses from a dataset of 1.6 million California companies
 
 ### NYU Center for Social Media and Politics
 Research Assistant
@@ -44,8 +44,12 @@ New York University Abu Dhabi, Class of 2022
 - Double Major in Economics & Sociology, Minor in Mathematics
 - GPA: 3.85/4.00
 - Study Away semesters at NYU London ('19 Spring) and NYU New York ('20 Spring)
+- Courseworks:
+  - Mathematics: Multivariable Calculus, Linear Algebra, Probability and Statistics, Econometrics, Forecasting Times Series Data
+- Programming Skills: R, SQL, Python 
 
 [sf-intro]: https://r-spatial.github.io/sf/
 [ggmap-intro]: https://github.com/dkahle/ggmap
+[tmap-intro]: https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html
 [cali-map]: /pages/case_county_2.html
 [CITIES-intro]: https://sites.nyuad.nyu.edu/cities/summer-research-program-2019-2020/
