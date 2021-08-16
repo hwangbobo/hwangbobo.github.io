@@ -11,6 +11,7 @@ Data Analyst Intern
 - Managed data taxonomy for Amplitude implementation of in-app events
 - Defined product roadmaps, feature priorities and KPIs based on user data
 - Analyzed user behavior data and marketing conversion data to measure conversion success from marketing campaigns and propose improvements for
+- Organized "Intro to SQL" study session for marketing and content team members
 - Tools used: Amplitude, Appsflyer
 
 ### Center for Interacting Urban Networks (CITIES)
@@ -20,10 +21,10 @@ workplace discrimination in California
 - Geocoded company addresses using Google Maps API to obtain longitude and latitude, and created an interactive map of the complaints by census tract level
 - Designed & Implemented data cleansing, dataset merging, data processing &
 visualization with R libraries
-  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap / geocode
+  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap
 - Data Visualization
-  - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map]
-![California's Discrimination Cases]("assets/images/cali_map.png")
+  <!-- - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map] -->
+![California's Discrimination Cases]("/assets/images/cali_map.png")
 
 
 ### NYU Center for Social Media and Politics
