@@ -25,7 +25,8 @@ visualization with R libraries
   - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / tmap
 - Data Visualization
   <!-- - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map] -->
-[![California's Discrimination Cases]("/assets/images/cali_map.png")]
+![California's Discrimination Cases]("assets/images/cali_map.jpg")
+
 
 
 ### NYU Center for Social Media and Politics
