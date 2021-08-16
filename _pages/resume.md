@@ -22,10 +22,12 @@ workplace discrimination in California
 - Built a new data set of socioeconomic variables extracted from public datasets, merged by census tract ID
 - Designed and implemented data cleansing, dataset merging, data processing &
 visualization with R libraries
-  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / [tmap][tmap-intro] / tidyverse
+  - Tools used: [sf][sf-intro] / [ggmap][ggmap-intro] / [tmap][tmap-intro] / [tidyverse][tidyverse-intro]
 - Data Visualization
   <!-- - [Interactive Map of California's Discrimination Cases (by census tract)][cali-map] -->
+
 ![California's Discrimination Cases](/assets/images/cali_map.jpg "Map of California's Discrimination Cases (by census tract)")
+
 - Identified corresponding company data for discrimination complaints through fuzzy matching of names and addresses from a dataset of 1.6 million California companies (used [stringdist][stringdist-intro] package)
 
 ### NYU Center for Social Media and Politics
@@ -40,7 +42,7 @@ Business Development Intern -->
 
 ## Education
 **New York University Abu Dhabi, Class of 2022**
-- Double Major in Economics & Sociology, Minor in Mathematics
+*Double Major in Economics & Sociology, Minor in Mathematics*
 - GPA: 3.85/4.00
 - Study Away semesters at NYU London ('19 Spring) and NYU New York ('20 Spring)
 - Courseworks:

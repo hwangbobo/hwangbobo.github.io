@@ -7,14 +7,9 @@ layout: single
 ## About
 
 I am a rising senior at [New York University Abu Dhabi][nyuad-link], studying Economics and
-Sociology with a minor in Mathematics. I found myself intrigued by data-driven
-approaches to social issues & applications of social statistics after taking
-Data Analysis course at college. Previously, I have engaged in both academic research and tech field and hope to combine my interests in computational tools to better understand social issues
+Sociology with a minor in Mathematics. I am intrigued by data-driven
+approaches to social issues & applications of social statistics, which led to my work in both academic research and tech company settings. Eventually, I hope to combine my interests in tech and society to apply computational tools in understanding social issues better.
 
-- Interests: Social Networks, Social dynamics in tech sphere
-
-
-My college track was been pretty leeway, but happy with where I've come so far.
 When I am not doing college or work-related stuffs, I can be found making
 hand-drip coffee, traveling, writing blog posts (Korean & English), or spending
 time playing with my little sister.
