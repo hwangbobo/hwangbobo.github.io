@@ -9,7 +9,7 @@ layout: single
 *Data Analyst Intern*
 - Worked on building the interest-based social blogging app [WIT][witapp] and short-form video platform VENTI
 - Managed data taxonomy for [Amplitude][amplitude] implementation of in-app events
-- Identified churn funnel in 'search keyword' stage through analysis of user behavior data and proposed improvements for search results page to boost conversion from marketing campaigns
+- Identified churn funnel in "Search" stage through analysis of user behavior data and proposed improvements for search results page to boost conversion from marketing campaigns
 - Analyzed key actions of retention users to define top user cohorts and rank feature priorities for app updates
 - Conducted research on social apps and short-form video platforms to devise product strategy on fostering in-app community environment
 - Organized "Intro to SQL" study session for marketing and content team members for improved data literacy
@@ -41,7 +41,7 @@ Business Development Intern -->
 
 
 ## Education
-**New York University Abu Dhabi, Class of 2022**
+### New York University Abu Dhabi, Class of 2022**
 *Double Major in Economics & Sociology, Minor in Mathematics*
 - GPA: 3.85/4.00
 - Study Away semesters at NYU London ('19 Spring) and NYU New York ('20 Spring)
